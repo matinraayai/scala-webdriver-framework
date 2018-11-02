@@ -1,0 +1,5 @@
+package researcher
+
+class TopicsTest {
+
+}

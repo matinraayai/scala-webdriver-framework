@@ -1,5 +1,0 @@
-package researcher
-
-class OutterFunctionalityTest {
-
-}

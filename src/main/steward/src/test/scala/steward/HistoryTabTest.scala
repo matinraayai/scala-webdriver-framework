@@ -1,5 +1,0 @@
-package steward
-
-class HistoryTabTest {
-
-}

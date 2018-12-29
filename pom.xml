@@ -3,8 +3,8 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>QAAutomationWithScala</groupId>
-    <artifactId>QAAutomationWithScala</artifactId>
+    <groupId>scala-webdriver-framework</groupId>
+    <artifactId>scala-webdriver-framework</artifactId>
     <version>1.0</version>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
@@ -19,23 +19,10 @@
             <artifactId>jsoup</artifactId>
             <version>1.11.2</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/codes.reactive/scala-time_2.11 -->
-        <dependency>
-            <groupId>codes.reactive</groupId>
-            <artifactId>scala-time_2.11</artifactId>
-            <version>0.4.1</version>
-        </dependency>
         <dependency>
             <groupId>org.scalatest</groupId>
             <artifactId>scalatest_2.11</artifactId>
             <version>3.0.1</version>
         </dependency>
-        <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>6.11</version>
-            <scope>test</scope>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/com.github.nscala-time/nscala-time_2.11 -->
     </dependencies>
 </project>
